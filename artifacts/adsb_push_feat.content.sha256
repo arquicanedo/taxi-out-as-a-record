@@ -1,0 +1,5 @@
+102 950e0c78b52f63e5cb553e9aedcf74e90b182086b9a31a328b7d53cbcbb03ff8 ADEP_mvt,day,ab_hex,ab_match,ab_push,ab_taxi,ab_how,ab_dwell,ab_d0,ab_dpush,ab_n,ab_gap,ab_stop,ab_gs0,ab_dto
+103 30ff0dc8ec3655bcbd1be4175f459da570e8a13ad1c167982d741e6009d23ffd ADEP_mvt,day,ab_hex,ab_match,ab_tm,ab_path,ab_tmove,ab_hold,ab_push,ab_taxi,ab_how,ab_dwell,ab_d0,ab_dpush,ab_n,ab_gap,ab_stop,ab_gs0,ab_dto
+104 c3ea92fa2bf267e6bc4c4fff9471ca54d59bc4d498c3ac0e7f0778a1e3cd2810 ADEP_mvt,day,ab_hex,ab_match,ab_tm,ab_path,ab_tmove,ab_hold,ab_push,ab_taxi,ab_how,ab_dwell,ab_d0,ab_dpush,ab_n,ab_gap,ab_stop,ab_gs0,ab_dto,ab_pk_dist,ab_pk_age,ab_pk_gs,ab_taxi_pk
+105 d57b70717b1bc0b71ad811f970c5dcff43d68ecd11813dce14659057e5303c52 ADEP_mvt,day,ab_hex,ab_match,ab_tm,ab_path,ab_tmove,ab_hold,ab_push,ab_taxi,ab_how,ab_dwell,ab_d0,ab_dpush,ab_n,ab_gap,ab_stop,ab_gs0,ab_dto,ab_pk_dist,ab_pk_age,ab_pk_gs,ab_taxi_pk,ab_px,ab_py,ab_qx,ab_qy
+full 6f2f42096f49cd487d373e4621932432bead39c07d27a4181815117964690164 ADEP_mvt,day,ab_hex,ab_match,ab_tm,ab_path,ab_tmove,ab_hold,ab_push,ab_taxi,ab_how,ab_dwell,ab_d0,ab_dpush,ab_n,ab_gap,ab_stop,ab_gs0,ab_dto,ab_pk_dist,ab_pk_age,ab_pk_gs,ab_taxi_pk

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or its findings, please cite it as below."
+type: software
+title: "Taxi-out Time as a Database Record: code for the PRC Data Challenge 2026, team quick-boat"
+abstract: >-
+  Taxi-out time prediction for ten European airports, built on the finding that the target is an airport database
+  record rather than a measurement: a regression blend, an ADS-B trajectory stage, and rules read from how the
+  records are written. The paper is analysis/joas/main.pdf.
+authors:
+  - family-names: Canedo
+    given-names: Arquimedes
+    orcid: "https://orcid.org/0000-0003-3506-6563"
+    affiliation: "Independent Researcher, Princeton, NJ, USA"
+repository-code: "https://github.com/arquicanedo/taxi-out-as-a-record"
+keywords:
+  - taxi-out time
+  - airport operational data
+  - ADS-B
+  - data quality
+  - PRC Data Challenge 2026

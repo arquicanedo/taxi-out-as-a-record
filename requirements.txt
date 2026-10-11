@@ -1,0 +1,18 @@
+# The library versions that rebuilt every submission from v100 to v121 byte for byte in the clean room of
+# 2026-10-02, and v122 to v126 on 2026-10-03/04 (Python 3.13.13, uv 0.11.7, macOS 26 on Apple M5 Pro, 18 cores).
+# The scripts call `uv run --with <name>` without versions; `export UV_EXCLUDE_NEWER=2026-10-02T00:00:00Z` makes
+# every one of those calls resolve to exactly these (REPRODUCE.md section 0). LightGBM, XGBoost and CatBoost
+# versions change the bytes of the retrained stages; the sha256 asserts stop the chain if they do.
+# One exception, off the exact path: scripts/v107_flaml_search.py runs with flaml[automl], which resolves XGBoost
+# 2.1.4; it ran once and its result is archived (artifacts/v107_xgb_params.json).
+pandas==3.0.6
+numpy==2.5.3
+pyarrow==25.0.1
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+scikit-learn==1.9.1
+scipy==1.18.1
+flaml==2.7.0
+torch==2.14.1
+matplotlib==3.11.2

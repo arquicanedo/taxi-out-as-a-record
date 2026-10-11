@@ -1,0 +1,57 @@
+# value<TAB>reason: v1 numbers v2 deliberately leaves out
+6.7	v1 1.3.p4, "about 6.7% arrive through an entry path": an early reading the same paragraph refutes (8.3% is 1/12 of a minute stamp with +-6 s jitter; scripts/fig_clock_grid.py)
+2026-09-11	v1 4.1.p29, the date the leaderboard-probing method was retired after an organiser comment: the disclosure keeps the fact and the cost, not the leaderboard story (author decision, 2026-09-30)
+3.3	not a number: v1 4.1.p9 "(Section\n3.3)", a cross-reference split across a line break
+58.52	v1 4.4.p9: a linearised conversion (window dSSE / 1.842e8) invalid at this size; v2 states the window change 1.078e10 instead (review, 2026-09-30)
+73.89	v1 4.2.p3 oracle gains in linearised RMSE-equivalent units at a stale level; v2 gives the window RMSE differences (70.99, 21.04, 115.08) instead
+23.87	v1 4.2.p3 oracle gains in linearised RMSE-equivalent units at a stale level; v2 gives the window RMSE differences (70.99, 21.04, 115.08) instead
+110.3	v1 4.2.p3 oracle gains in linearised RMSE-equivalent units at a stale level; v2 gives the window RMSE differences (70.99, 21.04, 115.08) instead
+17	v1 3.p2/3.2.p7 "17x lower": against the untyped chain, not the base it named (0.0280/0.0015 is about 19); v2 states the three rates
+2.2	v1 1.2.p4 "by 1.2 h, 2.2 h, 2.5 h and 10 h": inconsistent with its own table; v2 computes 3.0, 1.3, 2.3, 10.1 h from the table
+2.5	v1 1.2.p4 "by 1.2 h, 2.2 h, 2.5 h and 10 h": inconsistent with its own table; v2 computes 3.0, 1.3, 2.3, 10.1 h from the table
+2.7501	the board-fitting disclosure is reduced to one line pointing to REPRODUCE.md section 9, which carries the figure (author decision, 2026-09-30)
+16.7	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+24.6	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+24.7	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+31.7	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+33.3	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+51.7	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+60.8	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+65.3	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+83.2	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+86.2	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+87.7	v1 5.1 one-day table (2025-07-30), replaced by the full-year validation a reviewer asked for; the day survives as the EHAM control (67.6% against 19.8%)
+101.6	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+103.4	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+109	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+180.3	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+184.6	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+226.81	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+342.6	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+597.8	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+87.4	v114 figures (Table 19 with/without pushback; the 226.81 headline) replaced by the final model v121 (headline switch, 2026-10-02)
+133.6	Table 20 LEMD with-pushback RMSE under v121, replaced by v124 (133.5), 2026-10-03
+291.011	v124 window/board figures replaced by the final model v125 (2026-10-03)
+213.283	v124 window/board figures replaced by the final model v125 (2026-10-03)
+18.591	v124 window/board figures replaced by the final model v125 (2026-10-03)
+13.74	v124 window/board figures replaced by the final model v125 (2026-10-03)
+24.995	v124 window/board figures replaced by the final model v125 (2026-10-03)
+24.084	v124 window/board figures replaced by the final model v125 (2026-10-03)
+20.77	v124 window/board figures replaced by the final model v125 (2026-10-03)
+28.096	v124 window/board figures replaced by the final model v125 (2026-10-03)
+456.5	v124 window/board figures replaced by the final model v125 (2026-10-03)
+234.315	v124 window/board figures replaced by the final model v125 (2026-10-03)
+334.9	v124 window/board figures replaced by the final model v125 (2026-10-03)
+222.96	v124 window/board figures replaced by the final model v125 (2026-10-03)
+83	v124 window/board figures replaced by the final model v125 (2026-10-03)
+290.192	v125 window all rows, replaced by v126 (289.620)
+19.411	v125 base - final, replaced by v126
+14.351	v125 interval
+25.936	v125 interval
+233.296	v125 no-invisible
+222.92	v125 headline, replaced by v126 222.85
+84	submission count before v126
+200000	the mixture equation writes the cap as 2 x 10^5 (author review, 2026-10-05); Section 5.3 still states [60, 200,000] s, which the checker strips as a citation bracket
+254.52	v1 abstract: the base-to-final ladder of the competition model; the abstract now reports the final model (254.5228 stays in Section 6.1 and Table summary)
+404.97	the eight-network MLP ensemble figure of the direct-versus-residual comparison (Section 5.1); the residual-target evidence 409.32 against 406.27 s stays (tightening pass, 2026-10-12)
+7.4e9	the cost of one date-error row in Appendix D, a second illustration of the scale Section 6.4 gives with the Paris row (6.969e9); Appendix D now points there (tightening pass, 2026-10-12)

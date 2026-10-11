@@ -1,0 +1,400 @@
+{
+ "experiment": "analysis/FINAL-PLAN.md, The interim experiment: does the rebuilt copy model beat the learned gate on 2026 rows?",
+ "S": {
+  "path": "$EXP_DIR/S.parquet",
+  "sha256": "11fe7fc77ad067aeed80e77a3542846620c73eb49ab0e7f8f77f91d29711405c",
+  "rows": 344841,
+  "base": "v127 (sha 74fcf296d1ee90b08cfa6ce7b7356a8b82143ccf51dd2b87e1754925938f4d12, scored 247.7412)",
+  "unswapped_tail_reproduces_v127": true,
+  "data": "$DC26_DATA (the 2026-09-04 extract)"
+ },
+ "swap_rule": "(fixed before any 2026 quantity was computed)\n  gate      the clean base's learned five-class gate, Q = mixq(P0..P4) (P^0.90, renormalised, branches 1-4 below 0.10\n            zeroed), branch values V = [b, vsd, vlb, clip(86400 + b), b] (scripts/clean_base_build.py)\n  copy wt   gate_c = Q1 (+ Q2 where LOBT is null, since vlb = vsd there)\n  chain P   P(alpha) = (1 - alpha) P23 + alpha P25, the chain's v29 recipe with its leaderboard alpha (0.35) replaced\n            by a labelled one. P23 = isotonic fitted IN SAMPLE (classifier scores on its own training rows), P25 =\n            isotonic fitted on 3-fold OUT-OF-FOLD scores, both against the chain's own label ext = (y >= 7200)\n            (v15_trees.py, v25_build.py, calib3.py)\n  swap      on rows that are NOT hits (hit = MVT - LOBT >= 7200 with LOBT present): Q1 := P(alpha), Q2 := 0 where LOBT\n            is null, every other branch (0, 3, 4, and 2 where LOBT is present) scaled by (1 - c) / (1 - gate_c); no 0.10\n            floor on c. Where 1 - gate_c <= 1e-6 (the gate's other branches are only the 1e-12 clip floor) the\n            remainder 1 - c goes to the bulk branch 0. Hit rows unchanged. LIRF day-scale rows (ADEP LIRF, LOBT null,\n            MVT - SCHED >= 20,000 s) held at the gate's values. The base construction after the mixture is unchanged\n            (B1 - B0 added where |inc - vsd| > 60).",
+ "copy_label": "ext = TAXITIME >= 7200 s, the label the chain classifier and both isotonic maps are fitted on",
+ "alpha": {
+  "pooled": 1.0,
+  "fitted_january": 0.35,
+  "fitted_july": 1.0,
+  "july_dSSE_at_january_alpha": 459267180.0,
+  "january_dSSE_at_july_alpha": 22874394.0,
+  "grid": [
+   {
+    "alpha": 0.0,
+    "dSSE": 1083024747.0,
+    "dSSE_jan": 5280005.0,
+    "dSSE_jul": 1077744742.0
+   },
+   {
+    "alpha": 0.05,
+    "dSSE": 955452514.0,
+    "dSSE_jan": -411786.0,
+    "dSSE_jul": 955864300.0
+   },
+   {
+    "alpha": 0.1,
+    "dSSE": 825808746.0,
+    "dSSE_jan": -15112425.0,
+    "dSSE_jul": 840921171.0
+   },
+   {
+    "alpha": 0.15,
+    "dSSE": 734206339.0,
+    "dSSE_jan": -16793422.0,
+    "dSSE_jul": 750999761.0
+   },
+   {
+    "alpha": 0.2,
+    "dSSE": 653884180.0,
+    "dSSE_jan": -17742134.0,
+    "dSSE_jul": 671626314.0
+   },
+   {
+    "alpha": 0.25,
+    "dSSE": 578390223.0,
+    "dSSE_jan": -18649808.0,
+    "dSSE_jul": 597040031.0
+   },
+   {
+    "alpha": 0.3,
+    "dSSE": 507095051.0,
+    "dSSE_jan": -19300134.0,
+    "dSSE_jul": 526395185.0
+   },
+   {
+    "alpha": 0.35,
+    "dSSE": 439787445.0,
+    "dSSE_jan": -19479735.0,
+    "dSSE_jul": 459267180.0
+   },
+   {
+    "alpha": 0.4,
+    "dSSE": 376952417.0,
+    "dSSE_jan": -19202504.0,
+    "dSSE_jul": 396154921.0
+   },
+   {
+    "alpha": 0.45,
+    "dSSE": 318049303.0,
+    "dSSE_jan": -18411104.0,
+    "dSSE_jul": 336460407.0
+   },
+   {
+    "alpha": 0.5,
+    "dSSE": 263378658.0,
+    "dSSE_jan": -17117469.0,
+    "dSSE_jul": 280496127.0
+   },
+   {
+    "alpha": 0.55,
+    "dSSE": 214179213.0,
+    "dSSE_jan": -15323823.0,
+    "dSSE_jul": 229503036.0
+   },
+   {
+    "alpha": 0.6,
+    "dSSE": 167842704.0,
+    "dSSE_jan": -13064483.0,
+    "dSSE_jul": 180907187.0
+   },
+   {
+    "alpha": 0.65,
+    "dSSE": 125652759.0,
+    "dSSE_jan": -10287505.0,
+    "dSSE_jul": 135940264.0
+   },
+   {
+    "alpha": 0.7,
+    "dSSE": 83192249.0,
+    "dSSE_jan": -7010690.0,
+    "dSSE_jul": 90202939.0
+   },
+   {
+    "alpha": 0.75,
+    "dSSE": 49415800.0,
+    "dSSE_jan": -3269031.0,
+    "dSSE_jul": 52684831.0
+   },
+   {
+    "alpha": 0.8,
+    "dSSE": 19991676.0,
+    "dSSE_jan": 986283.0,
+    "dSSE_jul": 19005393.0
+   },
+   {
+    "alpha": 0.85,
+    "dSSE": -5505207.0,
+    "dSSE_jan": 5729428.0,
+    "dSSE_jul": -11234635.0
+   },
+   {
+    "alpha": 0.9,
+    "dSSE": -26668839.0,
+    "dSSE_jan": 10964738.0,
+    "dSSE_jul": -37633577.0
+   },
+   {
+    "alpha": 0.95,
+    "dSSE": -43686906.0,
+    "dSSE_jan": 16653955.0,
+    "dSSE_jul": -60340861.0
+   },
+   {
+    "alpha": 1.0,
+    "dSSE": -56433979.0,
+    "dSSE_jan": 22874394.0,
+    "dSSE_jul": -79308373.0
+   }
+  ],
+  "replaces": "0.35, chosen on the leaderboard (REPRODUCE.md section 9)"
+ },
+ "window_replay": {
+  "alpha": 1.0,
+  "dSSE": -56433979.0,
+  "SE": 265906006.18480167,
+  "ci95_pct": [
+   -581848682.3,
+   453363374.19999963
+  ],
+  "days": 62,
+  "dSSE_ord": -182595912.0,
+  "dSSE_ext": 126161933.0,
+  "rows_moved": 3103,
+  "rows_moved_60": 847,
+  "rows_moved_600": 203,
+  "by_airport": {
+   "EDDF": {
+    "n_moved": 316,
+    "dSSE": 715093.0
+   },
+   "EDDM": {
+    "n_moved": 108,
+    "dSSE": 173981.0
+   },
+   "EGLL": {
+    "n_moved": 414,
+    "dSSE": 295515.0
+   },
+   "EHAM": {
+    "n_moved": 355,
+    "dSSE": -1969471.0
+   },
+   "LEBL": {
+    "n_moved": 252,
+    "dSSE": 419271.0
+   },
+   "LEMD": {
+    "n_moved": 175,
+    "dSSE": 193870.0
+   },
+   "LFPG": {
+    "n_moved": 428,
+    "dSSE": 26994087.0
+   },
+   "LIRF": {
+    "n_moved": 658,
+    "dSSE": -79049198.0
+   },
+   "LSZH": {
+    "n_moved": 143,
+    "dSSE": -929254.0
+   },
+   "LTFM": {
+    "n_moved": 254,
+    "dSSE": -3277873.0
+   }
+  },
+  "rmse_gate": 309.5915856238051,
+  "rmse_swap": 309.3267814225995,
+  "board_scale": 1.0014665907718043,
+  "d2_precision_600": 0.43225827408038314,
+  "d2_precision_rows": 203,
+  "d2_precision_rows_right": 88,
+  "dSSE_on_600_rows": -87118275.0
+ },
+ "cap": {
+  "rule": "hold at v127 any row carrying more than 5% of Q, largest first, recomputing Q after each hold",
+  "share": 0.05
+ },
+ "dayscale": "LIRF departures with LOBT null and MVT - SCHED >= 20,000 s: held at the gate in the swap, set to v127 in S",
+ "change_set": {
+  "rows_moved": 6220,
+  "rows_moved_60": 922,
+  "rows_moved_600": 159,
+  "Q": 487245802.0,
+  "Q_600": 436907395.0,
+  "Q_le600": 50338407.0,
+  "largest_share": 0.04574249979890027,
+  "by_airport": {
+   "EDDF": {
+    "rows_moved": 521,
+    "rows_600": 0,
+    "Q": 236312.0
+   },
+   "EDDM": {
+    "rows_moved": 380,
+    "rows_600": 0,
+    "Q": 339409.0
+   },
+   "EGLL": {
+    "rows_moved": 552,
+    "rows_600": 15,
+    "Q": 54841490.0
+   },
+   "EHAM": {
+    "rows_moved": 1293,
+    "rows_600": 21,
+    "Q": 41637017.0
+   },
+   "LEBL": {
+    "rows_moved": 522,
+    "rows_600": 0,
+    "Q": 456532.0
+   },
+   "LEMD": {
+    "rows_moved": 335,
+    "rows_600": 0,
+    "Q": 114246.0
+   },
+   "LFPG": {
+    "rows_moved": 1136,
+    "rows_600": 23,
+    "Q": 48958424.0
+   },
+   "LIRF": {
+    "rows_moved": 523,
+    "rows_600": 85,
+    "Q": 306847937.0
+   },
+   "LSZH": {
+    "rows_moved": 701,
+    "rows_600": 13,
+    "Q": 30228092.0
+   },
+   "LTFM": {
+    "rows_moved": 257,
+    "rows_600": 2,
+    "Q": 3586343.0
+   }
+  },
+  "held_cap": [
+   {
+    "MVT_ID": 213141005.0,
+    "apt": "LIRF",
+    "S": 6614.0,
+    "v127": 18932.0,
+    "d": -12318.0,
+    "share": 0.194234842486377,
+    "Q_before": 781183860.0,
+    "base_gate": 18932.0,
+    "base_swap": 6614.0,
+    "c": 0.25640125363545613
+   },
+   {
+    "MVT_ID": 213141241.0,
+    "apt": "LIRF",
+    "S": 3067.0,
+    "v127": 11734.0,
+    "d": -8667.0,
+    "share": 0.11933720099741055,
+    "Q_before": 629450736.0,
+    "base_gate": 11734.0,
+    "base_swap": 3067.0,
+    "c": 0.09999402564028086
+   },
+   {
+    "MVT_ID": 213143666.0,
+    "apt": "LIRF",
+    "S": 8225.0,
+    "v127": 2383.0,
+    "d": 5842.0,
+    "share": 0.06156752683369883,
+    "Q_before": 554333847.0,
+    "base_gate": 2383.0,
+    "base_swap": 10150.0,
+    "c": 0.5116294088770074
+   },
+   {
+    "MVT_ID": 202681908.0,
+    "apt": "LIRF",
+    "S": 2266.0,
+    "v127": 8007.0,
+    "d": -5741.0,
+    "share": 0.06335788470482312,
+    "Q_before": 520204883.0,
+    "base_gate": 8007.0,
+    "base_swap": 2035.0,
+    "c": 0.08063029296765371
+   }
+  ],
+  "dayscale_rows": 27,
+  "dayscale_rows_where_S_differed": 0,
+  "base_level_rows_moved": 6495,
+  "base_level_Q": 1389753723.0,
+  "Q_before_cap": 781183860.0
+ },
+ "prediction": {
+  "m2T_w": 1129163592.0,
+  "m2T_w_scaled": 1130819612.9038846,
+  "Q_w": 1072729613.0,
+  "Q_b": 487245802.0,
+  "G_hat": 643573810.9038846,
+  "SE": 311116631.68643504,
+  "dSSE_pred": -643573810.9038846,
+  "dSSE_ci95": [
+   -1253362409.0092974,
+   -33785212.79847193
+  ],
+  "dSSE_ci_3SE": [
+   -1576923705.9631898,
+   289776084.15542054
+  ],
+  "score_pred": 243.94550769496914,
+  "score_ci95": [
+   240.2937630851589,
+   247.54338785652513
+  ],
+  "score_3SE": [
+   238.33338271419356,
+   249.4313936398589
+  ],
+  "window_base_level_gain_scaled": 56516744.5528176,
+  "m2T_w_ord_scaled": 848881428.493942,
+  "m2T_w_ext_scaled": 281938184.4099426,
+  "record": "v127 pre-registered 246.41, paid 247.7412",
+  "Q_w_scaled": 1074302868.351067,
+  "Q_w_scaled_over_Q_b": 2.2048478692712616,
+  "window_own": {
+   "dSSE": -56516744.5528176,
+   "ci95": [
+    -582702016.2080476,
+    454028272.7408754
+   ],
+   "SE": 266295981.47963965,
+   "score": 247.41020592053752,
+   "score_ci95": [
+    244.30704464360852,
+    250.38437042166075
+   ]
+  },
+  "sensitivity_window_capped": {
+   "window_rows_held": 3,
+   "m2T_w_scaled": 896517024.1100727,
+   "SE": 256366354.80784473,
+   "dSSE_pred": -409271222.11007273,
+   "dSSE_ci95": [
+    -911749277.5334485,
+    93206833.31330293
+   ],
+   "score_pred": 245.33418392350345
+  }
+ },
+ "decision_rule": [
+  "If S scores below v127 (247.7412), Feb/Jun uses the rebuilt copy model; otherwise it keeps the gate.",
+  "If the score falls outside the predicted interval widened to 3 SE, stop: the build or the instrument is broken. Neither change ships until that is explained.",
+  "The ratio of actual to predicted gain is recorded and applied to the final expected Feb/Jun range. No further submission is chosen in light of this one."
+ ],
+ "notes": [
+  "The window replay is at base level (gate base vs swapped base); the 2026 change is at the final level, after the CLEAN tail re-ran on the swapped base. The tail window side always uses the gate base, so the stage retrains on unchanged window inputs.",
+  "P25 on the scored rows is inverted from the archived int32 v25 against the v15 bulk where v25 != v23 (error <= 0.5 / |copy - bulk| per row); P25 := P23 where v25 == v23, which the archive cannot distinguish."
+ ],
+ "code": "scripts/final/exp_copyswap.py all"
+}

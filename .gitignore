@@ -1,0 +1,39 @@
+# Challenge data: not ours to redistribute. Never commit.
+data/
+*.parquet
+# ...except our own outputs and the archived inputs the exact rebuilds need
+!submissions/*.parquet
+!artifacts/p2_members_rk.parquet
+!artifacts/v99_bulk_components.parquet
+!artifacts/v15_net_jul19.parquet
+!artifacts/d_window_rk.parquet
+!artifacts/d2_window_rk.parquet
+!artifacts/d2_window_rk_K128.parquet
+!artifacts/metar_iem_asos.parquet
+!artifacts/b4_gate_rk.parquet
+!artifacts/fable/*.parquet
+# EUROCONTROL PRU snapshot the shipped model used (release V.1.0, 2026-08-14); PRU revises monthly
+!reference/pru/ATFM_Slot_Adherence.parquet
+!reference/pru/Airport_Arrival_ATFM_Delay.parquet
+reference/pru/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+catboost_info/
+.DS_Store
+logs/
+
+# the JOAS paper: the journal class is fetched from its template repository, and LaTeX build files
+analysis/joas/extra/
+analysis/joas/*.aux
+analysis/joas/*.bbl
+analysis/joas/*.bcf
+analysis/joas/*.blg
+analysis/joas/*.log
+analysis/joas/*.out
+analysis/joas/*.run.xml
+analysis/joas/*.fls
+analysis/joas/*.fdb_latexmk
+analysis/joas/*.synctex.gz

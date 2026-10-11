@@ -1,0 +1,527 @@
+# value<TAB>source: numbers v2 may use that v1 does not have, and the script or tool that produced each
+2082750	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+344693	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+10000	a unit label ("per 10,000" column header), not a measurement
+230141	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+837	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+36317	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+167334	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+774	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+25966	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+239546	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+37	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+1319	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+39840	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+247951	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+0.12	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+742	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+38182	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+179705	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+906	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+30080	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+212242	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+985	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+36954	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+239552	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+954	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+39872	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+160704	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+480	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+29.87	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+1025	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+26899	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+134907	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+711	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+23150	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+272965	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+21	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+963	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+47581	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+83	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+344419	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract)
+73	our own submission count on the 2026 set, from the public scoring feed (scripts/board.py), 2026-09-30
+222	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+101	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+213	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+102	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+227	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+166	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+247	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+188	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+321	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+122	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+229	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+276	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+307	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+136	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+344	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+298	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+228	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+395	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+335	analysis/day-one-findings.md s510, genuine 2025 departures (scripts/p3q_clockgap.py, scripts/p3q_derived.py)
+99	a percentile label (99th), not a measurement
+1.54	scripts/paper_data_facts.py (the 2025 training files and ranking.parquet of the 2026-09-04 extract) (extremes per 10,000 at EGLL and LFPG; not a rounding of 1.5397)
+642.4	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+665.98	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+309.603	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+296.671	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+409.11	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+420.944	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+237.367	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+219.963	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+12.932	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+10.105	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+16.608	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+17.404	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+15.977	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+18.971	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+36830	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+259.8	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+366.8	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+121.3	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+27091	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+391.2	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+355.2	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+168.4	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+122.6	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+40190	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+477.5	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+475.7	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+234.1	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+218.2	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+40947	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+348.1	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+371.4	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+166.5	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+105.7	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+28985	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+323.7	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+347	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+212.4	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+184.2	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+35328	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+273	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+312.9	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+167.8	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+159.1	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+39580	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+369.3	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+467.9	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+237.3	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+236.6	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+26415	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+655.6	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+665.4	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+496.5	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+494.7	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+22283	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+273.8	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+338.7	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+172.2	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+119.5	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+46538	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+523.5	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+414.8	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+229.8	scripts/paper_baselines.py (window: naive, airport median, base v100 and final v114 window vectors; day-cluster bootstrap)
+10.1109	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2011	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+26	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2008	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+10.2514	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+6.2008	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+6.2016	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+1518	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2019	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+10.21105	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2020	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+113	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+10.23919	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2006	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2023	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+1006	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2015	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+349	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+6248	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+636	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+10.1126	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+2024	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+10.5949	bibliographic data of references 4 and 14-27, each verified against doi.org or the publisher page (reference-verification agent, 2026-09-30)
+406.27	analysis/day-one-findings.md line 2395 (s40: the single residual net, 406.27 solo, 404.97 ensembled)
+-0.0425	board scores of v108 (231.7292, ledger) and v109 (231.7717, public scoring feed, 2026-09-30); difference computed
+0.95	analysis/day-one-findings.md s544 line 32092: v109 linear term 0.946x its window estimate (rounded)
+1.078e10	scripts/day_component.py: +58.52 = window dSSE / PER, PER = 1.842e8, so dSSE = 1.0779e10
+3	computed from the paper's own trajectory table: recorded off-block to the last airborne sample shown (3.0 h)
+2.3	computed from the paper's own trajectory table: recorded off-block to the last airborne sample shown
+88.24	analysis/day-one-findings.md s369 line 26701 (Fiumicino failed-join cell, 2025, per-30-day rarity bins)
+57	analysis/day-one-findings.md s369 line 26701 (Fiumicino failed-join cell, 2025, per-30-day rarity bins)
+80.7	analysis/day-one-findings.md s369 line 26701 (Fiumicino failed-join cell, 2025, per-30-day rarity bins)
+41	scripts/fig_airframe_carryover.py CONTROL: pooled effect delivers 2.7 of the 41.0 points needed, shortfall 15x
+3.6	scripts/fig_airframe_carryover.py CONTROL: lift needed 3.6-8.2x against a measured 1.19-1.57x
+1.19	scripts/fig_airframe_carryover.py CONTROL: lift needed 3.6-8.2x against a measured 1.19-1.57x
+70.99	computed: 313.8931 - 242.9062 (ledger values)
+21.04	computed: 313.8931 - 292.8497 (ledger values)
+115.08	computed: 313.8931 - 198.8101 (ledger values)
+1.04	computed: 259.2408 - 258.1975 (ledger values)
+10.197	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+10.966	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+1.533	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+1.82	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.719	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+1.152	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+1.188	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+1.336	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.447	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.603	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+3.274	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+4.115	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.467	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.834	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+-0.421	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.549	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+3.301	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+3.87	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.181	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+0.253	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+-0.339	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+-0.245	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+257.04	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+241.308	scripts/paper_window_ladder.py (per-layer window ablation, day-cluster 95% intervals; window RMSE without the 2 invisible day-scale rows)
+10.1	computed from the paper's own trajectory table: recorded off-block to the last airborne sample shown (not a rounding of a DOI prefix)
+1.3	computed from the paper's own trajectory table: recorded off-block to the last airborne sample shown
+1.57	scripts/fig_airframe_carryover.py CONTROL output (not a rounding of 1.5723)
+2.7	scripts/fig_airframe_carryover.py CONTROL output
+8.2	scripts/fig_airframe_carryover.py CONTROL output
+131	scripts/p2p_clean.py docstring: the independent build, residual LightGBM on 131 features, 10 categorical
+1075086	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+11.3	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+117496	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+124117	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+130215	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+153475	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+173	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+178	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+18.4	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+18.7	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+1856033	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+19.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+196412	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+21.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+220744	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+23.5	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+23.7	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+230	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+24.4	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+244	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+25.8	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+26.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+26.4	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+26.7	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+30.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+30.7	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+33.4	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+33.6	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+34.4	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+38.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+4.6	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+46	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+46.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+49.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+5.7	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+50576	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+52.6	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+53	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+55.7	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+550	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+57.9	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+58.5	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+59.5	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+60.4	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+605	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+64.1	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+64.6	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+72795	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+744	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+85.3	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+86.8	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+9256	scripts/paper_detector_validation.py (detected pushback vs recorded off-block, genuine 2025 departures)
+-0.548	scripts/clean_base_build.py ($DC26_WORK/clean/offsets.json and logs/base.log: labelled month offsets; window RMSE of the rebuilt base)
+-10.638	scripts/clean_base_build.py ($DC26_WORK/clean/offsets.json and logs/base.log: labelled month offsets; window RMSE of the rebuilt base)
+309.592	scripts/clean_base_build.py ($DC26_WORK/clean/offsets.json and logs/base.log: labelled month offsets; window RMSE of the rebuilt base)
+174	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560): of the 225 rows, at LIRF
+225	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560): rows where the two bases differ by more than 600 s
+23.91	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560): stage 23.9112 s on the rebuilt base, rounded
+268.1373	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560)
+292.0485	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560)
+37.53	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560): rebuilt base - submitted base +37.5257, rounded
+4.619e9	scripts/paper_clean_vs_submitted.py (v115 and v116 scored on the 2026 set 2026-09-30 17:40Z and 17:43Z; analysis/day-one-findings.md s560): squared error removed by the stage on the rebuilt base
+75	the public leaderboard API (scripts/quota.py endpoint) after v116: 75 quick-boat submissions
+0.45	the clean rebuild with WF=refit ($DC26_WORK/clean_refit) against v115/v116, 2026-09-30 (analysis/day-one-findings.md s561): RMS of the base's prediction change over all 344,841 rows, 0.4499 s; bounds |dRMSE| by Minkowski
+3.86	the clean rebuild with WF=refit ($DC26_WORK/clean_refit) against v115/v116, 2026-09-30 (analysis/day-one-findings.md s561): RMS of the final model's prediction change, 3.8583 s
+0.023	the clean rebuild with WF=refit ($DC26_WORK/clean_refit) against v115/v116, 2026-09-30 (analysis/day-one-findings.md s561): window RMSE of the final model 296.619 -> 296.596
+0.512	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+10.9	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+123	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+14.5	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+15.8	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+4.8	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8): THY Jan-Sep 2025 monthly departure copy range 4.8-15.8%
+22.2	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+381	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+46.4	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+48	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8): non-follower range 7-48%
+5.5	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8): other airports early-arrival copy rates 0.1-5.5%
+56.5	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+69	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8): THY October 2025 early arrivals (69); and the follower share 25/36 = 69%
+71.6	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+99.2	scripts/paper_feed_outage.py (2025 labelled departures and arrivals, 2026 labelled arrivals; Section 4.8)
+1.016	day-one-findings s573-s580 (scores returned by the 2026 set for v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576): v120 -dSSE / Q_b = 6.0231e7 / 5.9301e7
+118	scripts/v120_build.py: 2026 THY January departures moved (inside the Nov-Dec 2025 ms support)
+225.9576	day-one-findings s573-s580 (scores returned by the 2026 set for v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576)
+225.9972	day-one-findings s573-s580 (scores returned by the 2026 set for v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576)
+226.3833	day-one-findings s573-s580 (scores returned by the 2026 set for v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576)
+226.4823	day-one-findings s573-s580 (scores returned by the 2026 set for v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576)
+95.4	scripts/v119_build.py: 83 of 87 2025 predicate rows copied
+0.04	day-one-findings s580: v121 gain 225.9972 -> 225.9576 = 0.0396 s, rounded
+0.992	scripts/v120_build.py: THY Nov+Dec 2025 departure copy rate 241/243 = 0.9918
+0.008	scripts/v120_build.py: 1 - 0.9918 = 0.0082, the model's share of the v120 blend
+1.017	2/r - 1 at r = 241/243: 245/241 = 1.0166 (computed in session, s580 context)
+0.976	scripts/v121_build.py: MEA 2025 inside-span departure copy rate, fired at w 0.976
+0.731	scripts/v121_build.py: class hedge PI*qF + (1-PI)*qN = 0.694*0.961 + 0.306*0.209
+69.4	scripts/v121_build.py: PI 0.694, 25 of 36 2025 span carriers follow
+20.9	scripts/v121_build.py: non-followers' pooled inside copy rate 0.209
+-0.099	public leaderboard (scripts/quota.py), quick-boat scores: v114 226.8129, v117 226.5352, v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576; gains are differences of consecutive scores
+0.0396	public leaderboard (scripts/quota.py), quick-boat scores: v114 226.8129, v117 226.5352, v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576; gains are differences of consecutive scores
+0.1519	public leaderboard (scripts/quota.py), quick-boat scores: v114 226.8129, v117 226.5352, v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576; gains are differences of consecutive scores
+0.2777	public leaderboard (scripts/quota.py), quick-boat scores: v114 226.8129, v117 226.5352, v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576; gains are differences of consecutive scores
+0.3861	public leaderboard (scripts/quota.py), quick-boat scores: v114 226.8129, v117 226.5352, v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576; gains are differences of consecutive scores
+226.5352	public leaderboard (scripts/quota.py), quick-boat scores: v114 226.8129, v117 226.5352, v118 226.3833, v119 226.4823, v120 225.9972, v121 225.9576; gains are differences of consecutive scores
+-0.154	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+0.166	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+-0.366	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+0.196	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+97	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+1.3212e7	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+8.822e7	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+4.295e7	scripts/paper_final_window.py (final model on the window: v117 window vector + v121 rule replayed with ten-month classes, v96 carriers out; v119 cell replay)
+0.18	scripts/paper_window_ladder.py (ladder extended with v117 and the final model v121 window vector)
+0.276	scripts/paper_window_ladder.py (ladder extended with v117 and the final model v121 window vector)
+241.264	scripts/paper_window_ladder.py (ladder extended with v117 and the final model v121 window vector)
+12.968	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+10.082	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+16.732	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+17.43	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+15.887	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+19.058	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+296.635	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+219.937	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+121	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+122.1	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+217.8	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+104.8	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+184	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+495.5	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+118.8	scripts/paper_baselines.py (final model = v121 window vector from paper_final_window.py)
+13.033	scripts/paper_baselines.py with FINAL=v117 (base -> stage with refitted weight, all rows, day-cluster 95%)
+10.175	scripts/paper_baselines.py with FINAL=v117 (base -> stage with refitted weight, all rows, day-cluster 95%)
+16.755	scripts/paper_baselines.py with FINAL=v117 (base -> stage with refitted weight, all rows, day-cluster 95%)
+108.6	scripts/paper_pushback_split.py (final model = v121 window vector)
+86.3	scripts/paper_pushback_split.py (final model = v121 window vector)
+183.4	scripts/paper_pushback_split.py (final model = v121 window vector)
+102.3	scripts/paper_pushback_split.py (final model = v121 window vector)
+180.1	scripts/paper_pushback_split.py (final model = v121 window vector)
+599.3	scripts/paper_pushback_split.py (final model = v121 window vector)
+100.6	scripts/paper_pushback_split.py (final model = v121 window vector)
+342.5	scripts/paper_pushback_split.py (final model = v121 window vector)
+0.837	day-one-findings s562 (scripts/adsb_price_v117.py): alpha refit outside LIRF 0.837, Jan-fit 0.834, Jul-fit 0.840; with LIRF the Jul-fit 0.589
+0.84	day-one-findings s562 (scripts/adsb_price_v117.py): alpha refit outside LIRF 0.837, Jan-fit 0.834, Jul-fit 0.840; with LIRF the Jul-fit 0.589
+0.589	day-one-findings s562 (scripts/adsb_price_v117.py): alpha refit outside LIRF 0.837, Jan-fit 0.834, Jul-fit 0.840; with LIRF the Jul-fit 0.589
+1.83	day-one-findings s563: v117 board linear term 7.7506e7 = 1.83x the window -2T_w*sc 4.2239e7
+2.693e7	day-one-findings s568: v118 expected seed variance removed, from the scored rows own seed spread
+2.3724e7	day-one-findings s569: v118 board gain in SSE
+241	scripts/v120_build.py output: THY Nov+Dec 2025 departures 243, copies 241; ms support 62..5695
+243	scripts/v120_build.py output: THY Nov+Dec 2025 departures 243, copies 241; ms support 62..5695
+5695	scripts/v120_build.py output: THY Nov+Dec 2025 departures 243, copies 241; ms support 62..5695
+4.6428e9	computed from board scores with N = 344,841: 344841*(254.5228^2 - 226.5352^2)
+27.99	computed from board scores with N = 344,841: 254.5228 - 226.5352 = 27.9876
+226.54	v117 board score 226.5352, rounded
+225.96	v121 board score 225.9576, rounded
+5.3	section number (Section 5.3 / 6.3), not a measurement
+6.3	section number (Section 5.3 / 6.3), not a measurement
+0.9918	scripts/v120_build.py: RATE 241/243 = 0.9918
+1.1515e8	scripts/paper_final_window.py with V96_OUT=0 (replay including the eleven v96 carriers): window SSE removed +1.1515e8
+11776	scripts/v121_build.py output: ms support -2..11776 (2025 inside-span departures, q01..q99)
+2.9875e7	scripts/paper_final_window.py (v121 window replay by carrier): all fired copies gain
+33	scripts/paper_final_window.py (v121 window replay by carrier): MEA 33 rows
+4.25e7	scripts/paper_final_window.py (v121 window replay by carrier): KMM 4 non-copies cost 4.250e7
+58	scripts/paper_final_window.py (v121 window replay by carrier): KMM 58 rows
+-3606	join rule (s586-s591, scripts/v122_build.py verification: verify_l2.py)
+3606	join rule (s586-s591, scripts/v122_build.py verification: verify_l2.py)
+3606	join rule (s586-s591, scripts/v122_build.py verification: verify_l2.py)
+87001	scratchpad verify_l2.py: MVT - LOBT max 87001 on join-present 2025 departures
+99.88	scripts/v122_build.py output: arrival LOBT == departure LOBT on 99.88% of 25,236 join-present matches
+20	agent tz_lever.log: LIRF join-null ms < 1800 cell 2025, 20 local-time rows of 76
+22	scripts/v122_build.py: L2 rows in 2026
+23	scripts/v124_build.py: 2025 near rows with ms above the floor 23, copies 21
+271	scripts/v123_build.py: cell rows 271
+0.913	scripts/v124_build.py: r = 21/23 = 0.9130
+0.087	1 - 0.913
+0.955	s589: v123 -dSSE/Q 0.955
+1.11	s591: v124 -dSSE/Q 1.106
+1.42	s587: v122 -dSSE/Q 1.420
+1.1902	board: v121 225.9576 -> v122 224.7674
+1.2389	board: v122 -> v123 223.5285
+0.5727	board: v123 -> v124 222.9558
+224.7674	board score v122
+223.5285	board score v123
+222.9558	board score v124
+222.96	v124 board score, rounded
+3.389	scripts/paper_window_ladder.py (v122 row)
+0.635	ladder
+7.103	scripts/paper_window_ladder.py (v122 row)
+3.195	scripts/paper_window_ladder.py (v123 row)
+5.368	scripts/paper_window_ladder.py (v123 row)
+0.201	scripts/paper_window_ladder.py (v124 row)
+234.315	scripts/paper_window_ladder.py (v124 no-invisible)
+4.8724e8	scripts/paper_final_window_v124.py L2 step
+4.7844e8	scripts/paper_final_window_v124.py L5 step
+9.4738e7	scripts/paper_final_window_v124.py near step
+291.011	scripts/paper_baselines.py (FINAL=v124)
+213.283	scripts/paper_baselines.py (FINAL=v124)
+18.591	scripts/paper_baselines.py (FINAL=v124) base - final all rows
+13.74	scripts/paper_baselines.py (FINAL=v124)
+24.995	scripts/paper_baselines.py (FINAL=v124)
+24.084	scripts/paper_baselines.py (FINAL=v124) ordinary
+20.77	scripts/paper_baselines.py (FINAL=v124)
+28.096	scripts/paper_baselines.py (FINAL=v124)
+120.9	scripts/paper_baselines.py (FINAL=v124) by airport
+104	scripts/paper_baselines.py (FINAL=v124) by airport
+183.9	scripts/paper_baselines.py (FINAL=v124) by airport
+456.5	scripts/paper_baselines.py (FINAL=v124) by airport
+108.5	scripts/paper_pushback_split.py (FINAL=v124)
+183.3	scripts/paper_pushback_split.py (FINAL=v124)
+133.5	scripts/paper_pushback_split.py (FINAL=v124)
+180	scripts/paper_pushback_split.py (FINAL=v124)
+541.8	scripts/paper_pushback_split.py (FINAL=v124)
+334.9	scripts/paper_pushback_split.py (FINAL=v124)
+0.5	the classifier blend weight of v123 (the midpoint, scripts/v123_build.py BETA), not a rounding
+0.07	scripts/paper_window_ladder.py (v124 row, ordinary gain +0.070), not a rounding of 0.0667
+0.0397	board: v124 222.9558 -> v125 222.9161
+0.049	scripts/paper_window_ladder.py (v125 row), not a rounding
+0.134	scripts/paper_window_ladder.py (v125 row)
+0.055	scripts/fable_lirf/l3_export.py output (class rates)
+0.095	scripts/fable_lirf/l3_export.py output (class rates)
+0.436	scripts/fable_lirf/l3_export.py output (class rates)
+0.509	scripts/fable_lirf/l3_export.py output (class rates)
+1000	the class mixture constant 1000 s (l3_export.py)
+1248	scratchpad review_counts.py (verified review counts): LIRF plan-less 1-4 h 2025 rows, 46.0% copies
+1.6398e8	scripts/paper_final_window_v125.py L3 step
+14.351	scripts/paper_baselines.py (FINAL=v125)
+19.411	scripts/paper_baselines.py (FINAL=v125)
+20.789	scripts/paper_baselines.py (FINAL=v125)
+213.233	scripts/paper_baselines.py (FINAL=v125)
+216	scratchpad review_counts.py (verified review counts): LIRF plan-less 2025 bound for the ten
+222.9161	board score v125
+222.92	v125 board score, rounded
+233.296	scripts/paper_window_ladder.py (v125 row) no-invisible
+233.6	scripts/paper_pushback_split.py (LFPG with pushback)
+236.7	scripts/paper_pushback_split.py (LFPG without)
+24.134	scripts/paper_baselines.py (FINAL=v125)
+25.936	scripts/paper_baselines.py (FINAL=v125)
+27	scripts/v125_build.py: cell rows 27
+28.181	scripts/paper_baselines.py (FINAL=v125)
+290.192	scripts/paper_baselines.py (FINAL=v125)
+306	scripts/paper_final_window_v125.py L5 rows
+334	scripts/paper_pushback_split.py (LIRF without)
+456.2	scripts/paper_baselines.py (FINAL=v125)
+5.6473e8	scripts/paper_final_window_v125.py: L1 7.7489e7 + L2 4.8724e8
+7.7489e7	scripts/paper_final_window_v125.py L1 step
+749	scratchpad join_estate.py: far-branch 2025 rows at the nine non-LIRF airports (sum), 0 copies
+84	public leaderboard: 84 quick-boat submissions after v125
+0.11	s593: v125 -dSSE/Q 0.110, not a rounding of another value
+0.0654	board: v125 222.9161 -> v126 222.8507
+1.1423e8	scripts/paper_final_window_v126.py floor step
+14.668	scripts/paper_baselines.py (FINAL=v126)
+19.983	scripts/paper_baselines.py (FINAL=v126)
+222.85	v126 board score, rounded
+222.8507	board score v126
+232.584	scripts/paper_window_ladder.py (v126 no-invisible)
+26.486	scripts/paper_baselines.py (FINAL=v126)
+289.62	scripts/paper_baselines.py (FINAL=v126)
+46800	scripts/v126_build.py band edge (no date error below it in 2025)
+85	public leaderboard: 85 quick-boat submissions after v126
+86000	scripts/v126_build.py band edge
+389	scripts/fig_physical_bound.py: Figure 1 annotation, extreme/ordinary violation-rate ratio (analysis/figures/physical-bound.svg)
+14	scripts/v124_build.py: rows changed on the 2026 set (6 raised to the floor, 12 moved toward the copy)
+247.7412	public leaderboard: quick-boat_v127.parquet, 2026-10-05 12:53Z (analysis/day-one-findings.md s600)
+246.41	scripts/v127_build.sh: v127's pre-registered score (s599)
+3.6284e9	s600: 344841 * (268.1373^2 - 247.7412^2), the squared error the rules removed from v116
+0.941	s600: 3.6284e9 / 3.8553e9, v127's gain against its pre-registration
+24.89	s600: 247.7412 - 222.8507
+0.81	scripts/fable_lirf/l3_export.py: 2025 local-time class rate for the six carriers (p_tz 0.810; hidden from the Markdown check by its section-list filter)
+2023-03-16	reference.bib: the ATXOT indicator document's edition date, "16 March 2023" in the reference list
+2025-06-11	training_2025-06: ARGG1141 at LIRF, y 19,851, take-off date UTC (Table 3, author review 2026-10-05)
+2025-09-15	training_2025-09: RYRYR7ER, WMT7TL and WZZZ2062 at LIRF, take-off date UTC (Table 3)
+5	reference.bib eurocontrol_acdm: A-CDM Manual Version 5.0 (eurocontrol.int publication page, checked 2026-10-05)
+295	reference.bib ec261_2004: official title repeals Regulation (EEC) No 295/91 (EUR-Lex celex 32004R0261)
+91	reference.bib ec261_2004: official title repeals Regulation (EEC) No 295/91 (EUR-Lex celex 32004R0261)
+17.2	reference.bib ec261_2004: OJ L 46, 17.2.2004 (EUR-Lex celex 32004R0261)
+785	reference.bib chen2016xgboost: pages 785-794 (Crossref 10.1145/2939672.2939785)
+10.1145	reference.bib chen2016xgboost: DOI 10.1145/2939672.2939785 (Crossref)
+2939672.2939785	reference.bib chen2016xgboost: DOI 10.1145/2939672.2939785 (Crossref)
+2017-03-31	reference.bib eurocontrol_acdm: A-CDM Manual Version 5.0 dated 31 March 2017 (eurocontrol.int publication page, checked 2026-10-05)
+2026-10-05	reference.bib urldate for opdi_flight_list and adsblol: the date the URLs were checked
+5.1	Use of AI: Claude Fable 5.1, the subagent model used for blind review and verification
+979	Use of AI: prompts, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+338	Use of AI: prompts the subagent classifier flagged as introducing something the agents had not raised, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+35	Use of AI: 338 of 979, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+61	Use of AI: deep prompts that were human-initiated (of 62), effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+143.6	Use of AI: agent work, generation + tools + background jobs + subagents, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+68.7	Use of AI: foreground tools + background jobs = CPU 41.1 + GPU 27.6, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+41.1	Use of AI: shell work on the CPU, Apple M5 Pro, job-hours, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+27.6	Use of AI: shell work on the GPU by command keyword, job-hours, effort-meter studies/prc-2026 (run --until 2026-10-05T22:40:00Z; logged sessions 2026-09-08 to 2026-10-05)
+13.95	Use of AI: output tokens in millions, main 11.71M + subagents 2.24M, counted once per API message, to 2026-10-05T22:40Z (effort-meter studies/prc-2026)
+16.5	Use of AI: human interaction, sum over replies of the time before each prompt capped at 75 s, logged sessions to 2026-10-05T22:40Z (effort-meter studies/prc-2026)
+75	Use of AI: the per-reply cap in seconds behind the 16.5 h of interaction (effort-meter studies/prc-2026)
+99.97	Section 3: 7,200 s lies above the 99.97th percentile of 2025 departures (training files, quantile(0.9997) = 7,017 s; measured 2026-10-06)
+7017	Section 3: the 99.97th percentile of 2025 departures y, training files of the 2026-09-04 extract (measured 2026-10-06)
+1.07	Section 3: least-squares weight on the copy direction for extremes y>=7200 on the OOF frame, 1.0675 (research log s204)
+73.6	Section 3: schedule-copy share (|BLOCK-SCHED|<=60 s) of 2025 departures with 7,200<=y<20,000, 508 rows (measured 2026-10-06)
+76.3	Section 3: schedule-copy share of 2025 departures with y>=20,000, 76 rows (measured 2026-10-06)
+0.3	Section 3: least-squares weight on the copy direction for the [3600,7200) band on the OOF frame, 0.3048 (research log s204)
+7e6	Appendix 5.2: what the 2026 set paid for the stage MLP, about +7e6 of squared error (v108 vs v109 on the board, research log s544)
+7e7	Appendix 5.2: what the window credited the stage MLP, about +7e7 of squared error (+9.5e7 MLP blend minus +2.2e7 tree blend, research log s539/s544)
+90.3	Section 4.4: LTFM 2025 departures with |MVT-AOBT_3 - {19,20,24,25} min| <= 10 s, of 269,320 with AOBT_3; scratchpad verify1/verify2 (2026-10-07), challenge files; found by an independent agent session given the challenge files only
+88.8	Section 4.4: the same share on LTFM 2026 departures, of 46,860 with AOBT_3; scratchpad verify1/verify2 (2026-10-07), challenge files; found by an independent agent session given the challenge files only
+19	Section 4.4: LTFM network off-block constant, minutes (north flow 19/20, south flow 24/25); scratchpad verify1/verify2 (2026-10-07), challenge files; found by an independent agent session given the challenge files only
+0.194	Section 4.4: corr(y, MVT-AOBT_3) on LTFM 2025 constant rows; scratchpad verify1/verify2 (2026-10-07), challenge files; found by an independent agent session given the challenge files only
+40.5	Section 4.5: LFPG 2025 extremes (15 of 37) with another aircraft in-blocked at the same stand between recorded off-block and take-off; ordinary 7.0%; scratchpad verify1/verify2 (2026-10-07), challenge files; found by an independent agent session given the challenge files only
+2772	Section 4.7: LTFM 2025 departures to LCEN (Ercan), none with a flight plan; no-plan LTFM departures 3,645, 76.0% to LCEN; scratchpad verify1/verify2 (2026-10-07), challenge files; found by an independent agent session given the challenge files only
+233.75	the leaderboard: quick-boat_v130 (the final model's January and July rows) scored 233.7464, 2026-10-08 21:15:20Z (scripts/quota.py; analysis/FINAL-PLAN.md)
+233.7464	the leaderboard: quick-boat_v130 scored 233.7464, 2026-10-08 21:15:20Z (scripts/quota.py; analysis/FINAL-PLAN.md)
+292.05	rounding of 292.0485, quick-boat_v115 (the clean base) on the leaderboard (REPRODUCE.md section 12)
+325949	final_ranking.parquet (2026-10-08): February 144,158 + June 181,791 departures (analysis/FINAL-PLAN.md, facts measured)
+670790	final_ranking.parquet / final_submitting.parquet (2026-10-08): departures in the four months (analysis/FINAL-PLAN.md)
+-0.990	final_ranking vs ranking.parquet, arrivals: corr(take-off shift, block shift) = -0.9897 over 344,693 rows (analysis/FINAL-PLAN.md)
+-10.656	scripts/clean_base_build.py WF=refit, the four-month run's offsets.json: SHIFT_1 = -10.65637
+-0.528	scripts/clean_base_build.py WF=refit, the four-month run's offsets.json: SHIFT_7 = -0.52777
+3.800	scripts/xfit12.py, mean residual on ordinary 2025 February rows (SE 0.641); SHIFT_2 in scripts/final/run_final.sh
+2.727	scripts/xfit12.py, mean residual on ordinary 2025 June rows (SE 0.599); SHIFT_6 in scripts/final/run_final.sh
+1688	scripts/final/seam_rules.py: v96's eleven carriers, labelled 2025 rows above 600 s
+99.11	scripts/final/seam_rules.py: v96's pooled 2025 copy rate 0.9911
+0.826	scripts/adsb_price_v117.py on the four-month clean base (run_final.sh step 10 log): alpha fitted on January
+0.847	scripts/adsb_price_v117.py on the four-month clean base (run_final.sh step 10 log): alpha fitted on July
+50000	scripts/final/lirf_dayscale.py: the band boundary (lowest 2025 date error at 50,581 s)
+509	scripts/final/splice_final.py: v126 rows computed from the take-off time (417 + 63 + 26 + 3)
+417	scripts/final/splice_final.py: of them, schedule copies (MVT - SCHED)
+-5.64	scripts/final/exp_copyswap.py: window dSSE of the copy swap at alpha 1.00, -5.64e7 (analysis/final/prereg_v129.json)
+2.66	scripts/final/exp_copyswap.py: its day-clustered SE, 2.66e8 (analysis/final/prereg_v129.json)
+9.15	the leaderboard: v129 against v128, dSSE = 344841 x (248.2763^2 - 247.7412^2) = +9.1527e7 (analysis/FINAL-PLAN.md)
+247.41	analysis/FINAL-PLAN.md, read 2 pre-registration: 247.4103, the window's own gain scaled
+244.34	analysis/FINAL-PLAN.md, read 2 pre-registration: 95% lower bound 244.3358
+250.45	analysis/FINAL-PLAN.md, read 2 pre-registration: 95% upper bound 250.4471
+248.2763	the leaderboard: quick-boat_v129 scored 248.2763, 2026-10-08 16:02:25Z
+239.25	scripts/final/read3_build.py: read 3 pre-registration, 239.2533
+232.60	scripts/final/read3_build.py: read 3 pre-registration, -2 SD bound 232.5982
+245.73	scripts/final/read3_build.py: read 3 pre-registration, +2 SD bound 245.7281
+-0.99	(normalised form of -0.990) final_ranking vs ranking.parquet arrivals, corr -0.9897 (analysis/FINAL-PLAN.md)
+3.8	(normalised form of +3.800) scripts/xfit12.py February mean residual
+232.6	(normalised form of 232.60) scripts/final/read3_build.py read 3 pre-registration, -2 SD bound 232.5982
